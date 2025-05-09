@@ -8,7 +8,7 @@ class CalorieSnapApp extends StatelessWidget {
     return MaterialApp(
       title: 'CalorieSnap',
       theme: ThemeData(
-        primarySwatch: Colors.teal,
+        primarySwatch: Colors.green,
       ),
       home: Scaffold(
         appBar: AppBar(title: Text('CalorieSnap')),
